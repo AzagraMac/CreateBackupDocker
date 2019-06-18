@@ -1,5 +1,6 @@
 #!/bin/sh
 
+export AZURE_STORAGE_ACCOUNT=YourAccount
 export AZURE_STORAGE_KEY=19RInNKq8765CD876eA6FcA54JGYinwtWs4rkLy3wmv+EeauB==
 export container_name=bckucp
 
